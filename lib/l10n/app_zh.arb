@@ -1,0 +1,9 @@
+{
+    "login": "登录",
+    "logout": "登出",
+    "bottomNavHome": "首页",
+    "bottomNavCategory": "分类",
+    "bottomNavMessage": "信息",
+    "bottomNavCart": "购物车",
+    "bottomNavProfile": "我的"
+}

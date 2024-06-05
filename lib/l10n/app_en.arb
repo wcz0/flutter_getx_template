@@ -1,0 +1,9 @@
+{
+    "login": "Login",
+    "logout": "Logout",
+    "bottomNavHome": "Home",
+    "bottomNavCategory": "Category",
+    "bottomNavMessage": "Messages",
+    "bottomNavCart": "Cart",
+    "bottomNavProfile": "My"
+}
